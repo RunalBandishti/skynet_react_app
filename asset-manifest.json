@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skynet_react_app/static/css/main.f9af084d.chunk.css",
+    "main.js": "/skynet_react_app/static/js/main.63c54365.chunk.js",
+    "main.js.map": "/skynet_react_app/static/js/main.63c54365.chunk.js.map",
+    "runtime-main.js": "/skynet_react_app/static/js/runtime-main.ad34fb49.js",
+    "runtime-main.js.map": "/skynet_react_app/static/js/runtime-main.ad34fb49.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/skynet_react_app/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.863942e1.chunk.js": "/skynet_react_app/static/js/2.863942e1.chunk.js",
+    "static/js/2.863942e1.chunk.js.map": "/skynet_react_app/static/js/2.863942e1.chunk.js.map",
+    "index.html": "/skynet_react_app/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/skynet_react_app/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.f9af084d.chunk.css.map": "/skynet_react_app/static/css/main.f9af084d.chunk.css.map",
+    "static/js/2.863942e1.chunk.js.LICENSE.txt": "/skynet_react_app/static/js/2.863942e1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/skynet_react_app/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad34fb49.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.863942e1.chunk.js",
+    "static/css/main.f9af084d.chunk.css",
+    "static/js/main.63c54365.chunk.js"
+  ]
+}
